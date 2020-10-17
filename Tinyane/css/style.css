@@ -1,0 +1,157 @@
+@font-face {
+    font-family: 'PT Sans', sans-serif;
+}
+
+* {
+    font-family: 'PT Sans', sans-serif;
+}
+
+/* header */
+header {
+    background-color: #fcdb00;
+    padding: 0 10px;
+}
+
+.menu ul li a {
+    color: #010101;
+    font-weight: 700;
+    padding: 0 60px;
+    font-size: 22px;
+}
+
+
+/* slider start */
+.slider {
+    background: #fcdb00;
+    padding: 40px 0px 80px 0px;
+}
+
+.inspire {}
+
+.inspire h3 {
+    color: #7b7134;
+    margin: 10px 0px;
+}
+
+.inspire h1 {
+    color: #010101;
+    font-weight: 700;
+    margin-top: 47px;
+}
+
+.inspire p {
+    color: #8d8144;
+}
+
+.inspire ul li {
+    font-size: 35px;
+    padding: 0 10px;
+}
+
+.cid {
+    bottom: -80px;
+}
+
+.cid li {
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+}
+
+
+/* Feature section start */
+.feature {
+    padding: 50px 0;
+}
+
+.title {}
+
+.title h1 {
+    color: #010101;
+    font-weight: 700;
+}
+
+.title p {
+    color: #7387a0;
+    font-size: 20px;
+    padding: 0 10%;
+}
+
+.icon {}
+
+.icon i {
+    font-size: 30px;
+}
+
+.icon_content {}
+
+.icon_content h1 {
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.icon_content p {
+    color: #ababab;
+}
+
+.mt {
+    margin-top: 50px;
+}
+
+/* Feature section end */
+
+
+
+/* keep in touch start */
+.touch {
+    background: #010101;
+    padding: 50px 0px;
+}
+
+.touch h1 {
+    color: #fcdb00;
+}
+
+.touch p {}
+
+.btn-custom {
+    background: #fcdb00;
+    color: #010101;
+    font-weight: 600;
+}
+
+.social_icon ul li i {
+    font-size: 30px;
+    color: #fcdb00;
+    padding-left: 0 20px;
+}
+
+/* keep in touch end */
+
+
+/* footer start */
+footer {
+
+    background: #010101;
+}
+
+address {
+    color: #fff;
+}
+
+.footer_menu ul li {
+
+    list-style: none;
+}
+
+.footer_menu ul li a {
+    text-decoration: none;
+    transition: 0.4s;
+    color: #fff;
+}
+
+.footer_menu ul li a:hover {
+    color: #fcdb00;
+}
+
+/* footer end */
